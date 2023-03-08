@@ -1,0 +1,13 @@
+Lütfen Bir Pizza Tabanı Seçiniz:
+    [1] Klasik          (Fiyat: $10)
+    [2] Margarita       (Fiyat: $12)
+    [3] Türk Pizza      (Fiyat: $14)
+    [4] Dominos Pizza   (Fiyat: $8)
+Seçeceğiniz Sos:
+    [11] Zeytin         (Fiyat: $1)
+    [12] Mantar         (Fiyat: $4)
+    [13] Keçi Peyniri   (Fiyat: $6)
+    [14] Et             (Fiyat: $8)
+    [15] Soğan          (Fiyat: $9)
+    [16] Mısır          (Fiyat: $1)
+Teşekkür Ederiz!
